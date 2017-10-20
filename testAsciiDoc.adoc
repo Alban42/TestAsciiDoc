@@ -45,7 +45,7 @@ En utilisant une approche documentaire comme si c'était du code informatique (c
 
 ===== Comparatif AsciiDoc+Git vs Word+Mail:
 
-.Table Title
+
 |===
 |*Fonction* |*AsciiDoc+Git*|*Word+Mail*
 
