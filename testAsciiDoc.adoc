@@ -71,3 +71,12 @@ En utilisant une approche documentaire comme si c'était du code informatique (c
 ===== En résumé:
 AsciiDoc est véritable outil professionnel pour la gestion de la documentation, ce que word n'est pas... et ne sera #jamais!#
 // Je trouve que cette remarque est partiale...mais c'est tellement vrai.
+
+===== Liens:
+link:http://themes.asciidoctor.org/preview/[AsciiDoc]
+
+link:http://www.methods.co.nz/asciidoc/[AsciiDoctor]
+
+link:http://themes.asciidoctor.org/preview/[Thèmes AsciiDoctor]
+
+link:https://atom.io/[Atom  = IDE gérant mieux AsciiDoc qu'eclipse]
