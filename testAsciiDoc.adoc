@@ -1,6 +1,4 @@
-.logo
-[#logo]
-image:: asciidoc.png[logo,400,150]
+image::asciidoc.png[]
 
 // Variables
 
@@ -17,7 +15,7 @@ Auteur {Author} , {Email}
 
 Version {Revision}, le {Date}
 
-=====A propos d'AsciiDoc:
+===== A propos d'AsciiDoc:
 AsciiDoc est un outil de documentation permettant de détacher la forme du fond à travers un language de markup simple.
 Il n'y a plus de perte de temps à corriger la mise en plage, les alignements souvent hasardeux de Word.
 
@@ -25,7 +23,7 @@ On ne passe pas plus de temps à creer des éléments (tableaux, liste, etc) sou
 
 La forme est définie une fois au niveau du générateur et tout les documents générés par ce dernier auront la même forme d'appliquée.
 
-=====Autres choses à savoir sur AsciiDoc:
+===== Autres choses à savoir sur AsciiDoc:
 
 * Le style du rendu est personalisable.
 ** On peux générer des pdfs, des pages html en un simple clic.
@@ -45,7 +43,7 @@ En utilisant une approche documentaire comme si c'était du code informatique (c
 ** Possibilité de faire des branches.
 ** Pull request (gestion des responsabilités).
 
-=====Comparatif AsciiDoc+Git vs Word+Mail:
+===== Comparatif AsciiDoc+Git vs Word+Mail:
 
 .Table Title
 |===
@@ -70,6 +68,6 @@ En utilisant une approche documentaire comme si c'était du code informatique (c
 
 |===
 
-=====En résumé:
+===== En résumé:
 AsciiDoc est véritable outil professionnel pour la gestion de la documentation, ce que word n'est pas... et ne sera #jamais!#
 // Je trouve que cette remarque est partiale...mais c'est tellement vrai.
